@@ -1,6 +1,7 @@
 # Kjoglum.me
 
-This is me
+This is me!
+
 I'm not a front end developer and the layout of this page
 could possibly reflect this..
 

@@ -1,3 +1,6 @@
+---
+---
+
 # Kjoglum.me
 
 This is me!
@@ -13,3 +16,10 @@ could possibly reflect this..
 [GitHub profile](https://github.com/thomakj)
 
 [LinkedIn profile](https://www.linkedin.com/in/thomas-kj%C3%B8glum-b542b552)
+
+{% assign date = "2020-09-05" %}
+
+- Original date - {{ date }}
+- With timeago filter - {{ date | timeago }}
+
+
